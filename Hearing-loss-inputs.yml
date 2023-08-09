@@ -1,0 +1,156 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/hearing-loss-problem---primary.py
+inputModule3:
+  class: File
+  path: python/hearing-loss-deafness---primary.py
+inputModule4:
+  class: File
+  path: python/bilateral-hearing-loss---primary.py
+inputModule5:
+  class: File
+  path: python/hearing-loss-deafblind---primary.py
+inputModule6:
+  class: File
+  path: python/conductive-hearing-loss---primary.py
+inputModule7:
+  class: File
+  path: python/perceptive-hearing-loss---primary.py
+inputModule8:
+  class: File
+  path: python/hearing-loss---primary.py
+inputModule9:
+  class: File
+  path: python/hearing-loss-placement---primary.py
+inputModule10:
+  class: File
+  path: python/hearing-loss-attention---primary.py
+inputModule11:
+  class: File
+  path: python/hearing-loss-removal---primary.py
+inputModule12:
+  class: File
+  path: python/hearing-loss-anchored---primary.py
+inputModule13:
+  class: File
+  path: python/hearing-loss-middle---primary.py
+inputModule14:
+  class: File
+  path: python/hearing-loss-attachment---primary.py
+inputModule15:
+  class: File
+  path: python/hearing-loss-insertion---primary.py
+inputModule16:
+  class: File
+  path: python/hearing-loss-prosthesis---primary.py
+inputModule17:
+  class: File
+  path: python/hearing-loss-telephone---primary.py
+inputModule18:
+  class: File
+  path: python/hearing-loss-fitting---primary.py
+inputModule19:
+  class: File
+  path: python/hearing-loss-specified---primary.py
+inputModule20:
+  class: File
+  path: python/hearing-loss-provision---primary.py
+inputModule21:
+  class: File
+  path: python/hearing-loss-provide---primary.py
+inputModule22:
+  class: File
+  path: python/hearing-loss-battery---primary.py
+inputModule23:
+  class: File
+  path: python/hearing-loss-therapy---primary.py
+inputModule24:
+  class: File
+  path: python/clinic-hearing-loss---primary.py
+inputModule25:
+  class: File
+  path: python/hearing-loss-presbyacusis---primary.py
+inputModule26:
+  class: File
+  path: python/loss---primary.py
+inputModule27:
+  class: File
+  path: python/external-hearing-loss---primary.py
+inputModule28:
+  class: File
+  path: python/hearing-loss-contralat---primary.py
+inputModule29:
+  class: File
+  path: python/hearing-loss-combined---primary.py
+inputModule30:
+  class: File
+  path: python/sensorineural-hearing-loss---primary.py
+inputModule31:
+  class: File
+  path: python/hearing-loss-frequency---primary.py
+inputModule32:
+  class: File
+  path: python/congenital-hearing-loss---primary.py
+inputModule33:
+  class: File
+  path: python/hearing-loss-ototoxicity---primary.py
+inputModule34:
+  class: File
+  path: python/profound-hearing-loss---primary.py
+inputModule35:
+  class: File
+  path: python/moderate-hearing-loss---primary.py
+inputModule36:
+  class: File
+  path: python/severe-hearing-loss---primary.py
+inputModule37:
+  class: File
+  path: python/mixed-hearing-loss---primary.py
+inputModule38:
+  class: File
+  path: python/hearing-loss-mutism---primary.py
+inputModule39:
+  class: File
+  path: python/hearing-loss-acquired---primary.py
+inputModule40:
+  class: File
+  path: python/hearing-loss-deafened---primary.py
+inputModule41:
+  class: File
+  path: python/hearing-loss-impairment---primary.py
+inputModule42:
+  class: File
+  path: python/hearing-loss-anomaly---primary.py
+inputModule43:
+  class: File
+  path: python/other-hearing-loss---primary.py
+inputModule44:
+  class: File
+  path: python/hearing-loss-impaired---primary.py
+inputModule45:
+  class: File
+  path: python/hearing-loss-unspecified---primary.py
+inputModule46:
+  class: File
+  path: python/hearing-loss-mould---primary.py
+inputModule47:
+  class: File
+  path: python/referral-hearing-loss---primary.py
+inputModule48:
+  class: File
+  path: python/hearing-loss-implant---primary.py
+inputModule49:
+  class: File
+  path: python/hearing-loss-procedure---primary.py
+inputModule50:
+  class: File
+  path: python/hearing-loss---secondary.py
+inputModule51:
+  class: File
+  path: python/hearing-loss-adjustment---secondary.py
+inputModule52:
+  class: File
+  path: python/output-cases.py
